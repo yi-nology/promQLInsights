@@ -29,3 +29,6 @@ backend/vendor/
 .env
 .env.local
 *.env
+
+# Trae
+.trae/
